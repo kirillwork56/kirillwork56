@@ -6,8 +6,6 @@
 Сейчас хочу попасть в компанию где смогу и дальше развиваться в этом направлении и получать code review.
 </p>
 
-------------
-
 <h2 align="center">Навыки</h2>
 
 - Языки программирования
@@ -43,8 +41,6 @@
 ![MaterialUI](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=MaterialUI)&nbsp;
 ![react-bootstrap](https://img.shields.io/badge/-React_bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 
-
-------------
 
 
 <h2 align="center">Ну и немного статистики</h2>
