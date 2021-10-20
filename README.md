@@ -25,6 +25,9 @@
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=Axios)&nbsp;
 ![styledComponents](https://img.shields.io/badge/-styled_components-05122A?style=flat&logo=styled-components
 )&nbsp;
+![redux-form](https://img.shields.io/badge/-redux_form-05122A?style=flat&logo=redux-form)&nbsp;
+![formik](https://img.shields.io/badge/-formik-05122A?style=flat&logo=formik
+)&nbsp;
 
 - Верстка:
 
