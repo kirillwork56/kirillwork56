@@ -6,34 +6,39 @@
 Пишу фронт на JS/TS, в основном с библиотекой React, для хранения состояния использую Redux, для асинхронных операций Redux-thunk
 </p>
 
----
-
-<!--
-<h2 >🔗 Контакты</h2>
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
--->
-
 ```javascript
 const kirill = {
   code: ["JavaScript", "TypeScrit"],
   askMeAbout: ["web dev", "tech", "app dev", "dogs"],
   technologies: {
     frontEnd: {
-      js: ["React"],
+      js: ["ES6"],
+      React: [
+        "Redux",
+        "Redux-Thunk",
+        "Next.js",
+        "React-router-dom",
+        "Axios",
+        "styled components",
+      ],
       html: 5,
-      css: ["SASS"],
+      css: ["SASS", "Flexbox", "Grid"],
     },
+    other: ["Git", "Gulp", "Webpack", "bootstrap"],
   },
 };
 ```
 
-## Ну и немного статистики
+<h2 >🔗 Контакты</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillwork56&layout=compact&theme=nord)](https://github.com/kirillwork56/github-readme-stats)
+<a href="https://t.me/KirillWork"><img src="https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kirillvasiliev"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:kirillwork56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kirillwork56&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<h2>Ну и немного статистики</h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirillwork56&theme=nord_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillwork56&layout=compact&theme=nord">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kirillwork56&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirillwork56&theme=nord_dark">
