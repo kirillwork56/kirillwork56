@@ -8,23 +8,23 @@
 
 ```javascript
 const kirill = {
-  code: ["JavaScript", "TypeScrit"],
+  code: ["javaScript", "typeScript"],
   askMeAbout: ["web dev", "tech", "app dev", "dogs"],
   technologies: {
     frontEnd: {
       js: ["ES6+"],
-      React: [
-        "Redux",
-        "Redux-Thunk",
-        "Next.js",
-        "React-router-dom",
-        "Axios",
+      react: [
+        "redux",
+        "redux-Thunk",
+        "next.js",
+        "react-router-dom",
+        "axios",
         "styled components",
       ],
       html: 5,
-      css: ["SASS", "Flexbox", "Grid"],
+      css: ["SASS", "flexbox", "grid"],
     },
-    other: ["Git", "Gulp", "Webpack", "bootstrap"],
+    other: ["git", "webpack", "gulp", "bootstrap"],
   },
 };
 ```
