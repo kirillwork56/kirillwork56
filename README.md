@@ -40,5 +40,5 @@ const kirill = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillwork56&layout=compact&theme=nord">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kirillwork56&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirillwork56&theme=nord_dark">
+<!--
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirillwork56&theme=nord_dark"> -->
