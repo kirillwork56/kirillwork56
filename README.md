@@ -12,7 +12,7 @@ const kirill = {
   askMeAbout: ["web dev", "tech", "app dev", "dogs"],
   technologies: {
     frontEnd: {
-      js: ["ES6"],
+      js: ["ES6+"],
       React: [
         "Redux",
         "Redux-Thunk",
