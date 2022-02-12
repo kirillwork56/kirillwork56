@@ -3,7 +3,7 @@
 <h2>🚀 Обо мне</h2>
 
 <p>
-Пишу фронт на JS/TS, в основном с бибиотекой React, для хранения состояния использую Redux, для асинхронных операций Redux-thunk
+Пишу фронт на JS/TS, в основном с библиотекой React, для хранения состояния использую Redux, для асинхронных операций Redux-thunk
 </p>
 
 ---
@@ -32,7 +32,7 @@ const kirill = {
 
 ## Ну и немного статистики
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillwork56&layout=compact&theme=nord)](https://github.com/kirillwork56/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kirillwork56&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
