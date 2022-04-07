@@ -1,6 +1,8 @@
-<h1 align="center">Hi everyone<img src="https://raw.githubusercontent.com/kirillwork56/kirillwork56/master/images/Hi.gif" width="30px"> </h1>
+<h1>Hi everyone<img src="https://raw.githubusercontent.com/kirillwork56/kirillwork56/master/images/Hi.gif" width="30px"></h1>
 
-<h2 align="center">🚀 About me</h2>
+<a href="https://t.me/KirillWork"><img src="https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kirillvasiliev"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:kirillwork56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ```javascript
 const kirill = {
@@ -23,25 +25,8 @@ const kirill = {
 }
 ```
 
-<br>
+<h2>📈 My Stats</h2>
 
-<h2 align="center" >🔗 Contacts</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillwork56&layout=compact&theme=nord">
 
-<p align="center">
-  <a href="https://t.me/KirillWork"><img src="https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/kirillvasiliev"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:kirillwork56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<br>
-
-<h2 align="center">📈 Stat</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillwork56&layout=compact&theme=nord">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kirillwork56&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D">
-</p>
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirillwork56&theme=nord_dark"> -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kirillwork56&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D">
