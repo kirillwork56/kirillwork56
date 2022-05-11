@@ -1,9 +1,5 @@
 <h1>Hi everyone<img src="https://raw.githubusercontent.com/kirillwork56/kirillwork56/master/images/Hi.gif" width="30px"></h1>
 
-<a href="https://t.me/KirillWork"><img src="https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/kirillvasiliev"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:kirillwork56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
 ```javascript
 const kirill = {
   code: ['javaScript', 'typeScript'],
@@ -24,6 +20,12 @@ const kirill = {
   },
 }
 ```
+
+<img src="https://www.codewars.com/users/Little_c0rgi/badges/small">
+
+<a href="https://t.me/KirillWork"><img src="https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kirillvasiliev"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:kirillwork56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <h2>📈 My Stats</h2>
 
